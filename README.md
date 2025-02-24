@@ -46,7 +46,8 @@ The target variable, Grade, categorizes the milk into three quality levels:
 ### **1️⃣ Data Loading & Preprocessing**  
 - **Reading the dataset** and inspecting its structure.  
 - **Checking for missing values**   
-- **Encoding categorical variables** 
+- **Encoding categorical variables**
+- **A pie chart is drawn using matplotlib to visualize the class distribution of the "Grade" column in a dataset.**
 
 ---
 
